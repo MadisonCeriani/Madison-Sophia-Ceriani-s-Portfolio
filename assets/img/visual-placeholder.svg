@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" role="img" aria-label="Visualization placeholder">
+  <defs>
+    <linearGradient id="g2" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#f8e4dc"/>
+      <stop offset="100%" stop-color="#f0c6b7"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="700" fill="url(#g2)"/>
+  <polyline points="120,540 300,420 450,470 620,320 780,360 1030,190" stroke="#9a3f5c" stroke-width="18" fill="none" stroke-linecap="round"/>
+  <circle cx="620" cy="320" r="18" fill="#9a3f5c"/>
+  <text x="600" y="640" text-anchor="middle" fill="#8e4a5f" font-size="52" font-family="Manrope, sans-serif">Upload Visualization Image</text>
+</svg>
